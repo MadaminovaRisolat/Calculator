@@ -1,6 +1,13 @@
 ![Screen Shot 2024-10-20 at 16 28 55](https://github.com/user-attachments/assets/ea2e885d-a244-4aea-a51b-c10dd92f4537)
 
 
+
+
+https://github.com/user-attachments/assets/ad0a81f3-68fc-4db3-b446-ecfef7be399d
+
+
+
+
 This  'HelloController' manages a calculator's input and operations. It uses a `Calculator` object to handle arithmetic functions. The `TextField` (`txtDisplay`) shows user input and results.
 
 Key methods:
